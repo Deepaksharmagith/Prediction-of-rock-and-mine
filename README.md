@@ -1,2 +1,3 @@
-# Prediction-of-rock-and-mine
-Rock vs Mine
+# Rock vs Mine 
+Prediction-of-rock-and-mine
+
